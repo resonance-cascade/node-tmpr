@@ -14,6 +14,6 @@
 [stability-image]: https://img.shields.io/badge/stability-2%20--%20unstable-yellow.svg?style=flat-square
 [stability-url]: https://nodejs.org/api/documentation.html#documentation_stability_index
 
-Creates a temorary directory and then gives you the path to it.
+Creates a temporary directory and then gives you the path to it.
 
 
