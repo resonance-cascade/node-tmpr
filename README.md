@@ -16,6 +16,13 @@
 
 Creates a temorary directory and then gives you the path to it.  `mkdirp`(`os.tmpdir` + `crypto.randomBytes`), tests, and possibly a few other conerns.
 
+# Install
+
+```
+$ npm i tmpr -g
+```
+
+## API
 
 ```js
 var tmpr = require('tmpr')
@@ -24,3 +31,20 @@ tmpr(function(err, path) {
   console.log('Temp dir created at ' + path)
 })
 ```
+
+## References
+
+- https://iojs.org/api/os.html#os_os_tmpdir
+- https://iojs.org/api/crypto.html#crypto_crypto_randombytes_size_callback
+- https://github.com/substack/node-mkdirp
+- https://github.com/isaacs/rimraf
+
+> [ogd] bret: require('os').tmpdir
+
+> [ogd] i use that with require('mkdirp') and require('rimraf') a lot
+
+> [ogd] bret: usually like ~~(Math.random() * 1000000) + Date.now()
+
+> [ogd] could also do require('crypto').randomBytes(16).toString('hex')
+
+> --#pdxnode [2015-03-02 09:51:02]
