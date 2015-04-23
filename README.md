@@ -47,4 +47,4 @@ tmpr(function(err, path) {
 
 > [ogd] could also do require('crypto').randomBytes(16).toString('hex')
 
-> --#pdxnode [2015-03-02 09:51:02]
+> -- [#pdxnode](irc://chat.us.freenode.net/pdxnode) [2015-03-02 09:51:02]
