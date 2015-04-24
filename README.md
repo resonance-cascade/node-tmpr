@@ -16,6 +16,8 @@
 
 Creates a temorary directory and then gives you the path to it.  `mkdirp`(`os.tmpdir` + `crypto.randomBytes`), tests, and possibly a few other conerns.
 
+![demo](tmpr.gif)
+
 # Install
 
 ```
