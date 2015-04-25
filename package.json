@@ -1,6 +1,6 @@
 {
   "name": "tmpr",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Creates a temorary directory and gives you the path to it.",
   "main": "index.js",
   "scripts": {
