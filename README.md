@@ -22,7 +22,7 @@
 
 Creates a temorary directory and then gives you the path to it.  `mkdirp`(`os.tmpdir` + `crypto.randomBytes`), tests, and possibly a few other conerns.
 
-![demo](https://cdn.rawgit.com/bcomnes/node-tmpr/master/tmpr.gif)
+![demo](https://cdn.rawgit.com/bcomnes/node-tmpr/f871976d5f391b772573d36d1cbafe8fbe6cb4be/tmpr.gif)
 
 # Install
 
