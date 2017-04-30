@@ -1,5 +1,7 @@
 # tmpr
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/bcomnes/node-tmpr.svg)](https://greenkeeper.io/)
+
 [![release][release-image]][release-url]
 [![npm][npm-image]][npm-url]
 [![travis][travis-image]][travis-url]
