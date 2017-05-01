@@ -1,5 +1,7 @@
 # tmpr
 
+DEPRECIATED: USE https://github.com/maxogden/temporary-directory instead
+
 [![release][release-image]][release-url]
 [![npm][npm-image]][npm-url]
 [![travis][travis-image]][travis-url]
